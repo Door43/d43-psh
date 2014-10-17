@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psh:home|Door43 (psh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psh|d43-psh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psh/archive/master.zip|d43-psh.zip]]
+
+**Recent Changes**
+{{changes>ns = psh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psh|Ethnologue data]]
+
